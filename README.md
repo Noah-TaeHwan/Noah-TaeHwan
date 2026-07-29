@@ -38,4 +38,4 @@ analysis alone is not enough.
 
 Most repositories here span different stages of that journey—from early
 software exercises to product experiments and current research systems. The
-projects above are the best starting points.
+best starting points are NONGGOO and SureCRM.
