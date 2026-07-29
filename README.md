@@ -22,12 +22,12 @@ analysis alone is not enough.
 
 ## Selected builds
 
-| Project                                                                                                    | What it demonstrates                                                                                                                                  |
-| ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[SureCRM](https://github.com/Noah-TaeHwan/surecrm)** · [Live surface](https://surecrm-sigma.vercel.app/) | A referral-first CRM for independent insurance agents. Product framing, relationship-aware data modeling, and full-stack TypeScript development.      |
-| **[NONGGOO](https://nonggoo-mvp.vercel.app/)**                                                             | A basketball operations product co-built with a friend. Product planning and web/mobile implementation; the shared source repository remains private. |
-| **[OneVDR](https://github.com/Noah-TaeHwan/onevdr)**                                                       | An earlier fundraising-workspace prototype for documents, investor communication, and pipeline management.                                            |
-| **[Outio](https://github.com/Noah-TaeHwan/outio)**                                                         | An earlier people-analytics experiment exploring organizational-culture surveys and hiring insights.                                                  |
+| Project                                                                                                    | What it demonstrates                                                                                                                                           |
+| ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[NONGGOO](https://github.com/Noah-TaeHwan/nonggoo)** · [Live product](https://nonggoo-mvp.vercel.app/)   | A mobile-first basketball match platform co-built with a friend. Product planning and web/mobile implementation; the shared source repository remains private. |
+| **[SureCRM](https://github.com/Noah-TaeHwan/surecrm)** · [Live surface](https://surecrm-sigma.vercel.app/) | A referral-first CRM for independent insurance agents. Product framing, relationship-aware data modeling, and full-stack TypeScript development.               |
+| **[OneVDR](https://github.com/Noah-TaeHwan/onevdr)**                                                       | An earlier fundraising-workspace prototype for documents, investor communication, and pipeline management.                                                     |
+| **[Outio](https://github.com/Noah-TaeHwan/outio)**                                                         | An earlier people-analytics experiment exploring organizational-culture surveys and hiring insights.                                                           |
 
 ## What I am working toward
 
