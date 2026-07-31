@@ -22,6 +22,15 @@
   evidence collection, analysis, and knowledge operations. AI accelerates the
   workflow; judgment remains accountable.
 
+## Professional credentials
+
+- **Certified Investment Manager** *(투자자산운용사)* — Korea Institute of
+  Financial Investment (KOFIA)
+- **Certified Investment Analyst** *(금융투자분석사)* — Korea Institute of
+  Financial Investment (KOFIA)
+- **Certified Venture Investment Specialist (CVIS)** *(벤처투자분석사)* — Korea
+  Venture Capital Association (KVCA)
+
 ## Supporting builds
 
 | Project                                                                                                  | What it demonstrates                                                                                                                                           |
