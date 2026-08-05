@@ -16,14 +16,16 @@
 
 - **[THOUGHTS ON INVESTMENT](https://taehwannoah.substack.com/)** — company
   analysis, investment theses, market questions, and postmortems.
-- **Quantitative research** — currently studying time-series analysis,
-  statistical modeling, and reproducible walk-forward research design.
+- **Quantitative research** — time-series analysis, statistical modeling, and
+  reproducible walk-forward research design.
 - **AI-assisted research systems** — building local-first workflows for
   evidence collection, analysis, and knowledge operations. AI accelerates the
   workflow; judgment remains accountable.
 
 ## Professional credentials
 
+- **WorldQuant Challenge, Gold Level** *(10,000+ points)* — reached on the
+  WorldQuant BRAIN research platform.
 - **Certified Investment Manager** *(투자자산운용사)* — Korea Institute of
   Financial Investment (KOFIA)
 - **Certified Investment Analyst** *(금융투자분석사)* — Korea Institute of
@@ -51,9 +53,3 @@
 - Using AI as research infrastructure, not as a substitute for evidence
 - Building useful products at the intersection of data, decisions, and
   operations
-
-Most repositories here span different stages of that journey—from early
-software exercises to product experiments and current research systems. For
-research, start with the writing above. For product execution, start with
-NONGGOO; SureCRM is an archived case study in product framing and AI-assisted
-implementation.
