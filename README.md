@@ -4,7 +4,8 @@
   <p>
     I study businesses and markets, test ideas with data, and build tools when
     analysis alone is not enough.<br />
-    시장과 기업을 연구하고, 필요한 도구를 직접 만듭니다.
+    기업과 시장을 분석하고 데이터로 검증합니다.
+    분석만으로 부족하면 도구를 직접 만듭니다.
   </p>
   <p>
     <code>Investment Research</code> · <code>Quantitative Methods</code> ·
