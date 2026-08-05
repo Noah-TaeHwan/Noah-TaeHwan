@@ -29,7 +29,7 @@
 
 | Year | What |
 | --- | --- |
-| 2025 – present | **[NONGGOO](https://github.com/Noah-TaeHwan/nonggoo)** · Co-founder. A basketball match platform, co-built with a friend. [Live product](https://nonggoo-mvp.vercel.app/) |
+| 2025 – 2026 | **[NONGGOO](https://github.com/Noah-TaeHwan/nonggoo)** · Co-founder. A basketball match platform, built with a friend. [Live product](https://nonggoo-mvp.vercel.app/) |
 | 2023 – 2025 | **Plodify, Inc.** · Delaware C-Corp, sole founder. Incorporated to take the product to the US. Dissolved in 2025. |
 | 2021 – 2024 | **DeepSide Co., Ltd.** · CEO. B2B SaaS (plody). Raised two institutional rounds from Korea Investment Accelerator and Sopoong Ventures. |
 | 2020 – 2021 | **Mongle** · Founder. A social dating app that reached 5,000 users in three months with no paid marketing. |
