@@ -9,6 +9,10 @@
     <code>Investment Research</code> · <code>Quantitative Methods</code> ·
     <code>AI-assisted Workflows</code> · <code>Product Building</code>
   </p>
+  <p>
+    <a href="https://www.linkedin.com/in/noah-taehwan/">LinkedIn</a> ·
+    <a href="https://taehwannoah.substack.com/">Substack</a>
+  </p>
 </div>
 
 ## Research & writing
