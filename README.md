@@ -7,7 +7,7 @@
   </p>
   <p>
     <code>Investment Research</code> · <code>Quantitative Methods</code> ·
-    <code>AI-assisted Workflows</code> · <code>Product Building</code>
+    <code>Applied AI Systems</code> · <code>Product Building</code>
   </p>
   <p>
     <a href="https://www.linkedin.com/in/noah-taehwan/">LinkedIn</a> ·
@@ -38,6 +38,7 @@
 
 | Issuer | Credential |
 | --- | --- |
+| Day1 Company / APEX | **APEX Level 1 (Essential) — AI Performance Examination** · Validates practical AI proficiency across problem framing, prompting, output verification, workflow integration, and responsible use. [Verify credential](https://scaila.kr/apex/verify/credential/APEX-202608-000011) *(인공지능활용능력인증 · 등록민간자격 제2023-005427호)* |
 | WorldQuant | **Challenge, Gold Level** *(10,000+ points)* — reached on the WorldQuant BRAIN research platform |
 | KOFIA | **Certified Investment Manager** *(투자자산운용사)* |
 | KOFIA | **Certified Investment Analyst** *(금융투자분석사)* |
