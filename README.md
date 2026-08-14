@@ -34,10 +34,11 @@
 | 2021 – 2024 | **DeepSide Co., Ltd.** · CEO. B2B SaaS (plody). Raised two institutional rounds from Korea Investment Accelerator and Sopoong Ventures. |
 | 2020 – 2021 | **Mongle** · Founder. A social dating app that reached 5,000 users in three months with no paid marketing. |
 
-## Professional credentials
+## Credentials & recognition
 
-| Issuer | Credential |
+| Issuer | Credential / recognition |
 | --- | --- |
+| EO School | **VC Sprint 9 — Graduated with distinction** · Completed a practitioner-led program in startup screening and investment memo writing. [Program](https://eopla.net/eoschool) |
 | Day1 Company / APEX | **APEX Level 1 (Essential) — AI Performance Examination** · Validates practical AI proficiency across problem framing, prompting, output verification, workflow integration, and responsible use. [Verify credential](https://scaila.kr/apex/verify/credential/APEX-202608-000011) *(인공지능활용능력인증)* |
 | WorldQuant | **Challenge, Gold Level** *(10,000+ points)* — reached on the WorldQuant BRAIN research platform |
 | KOFIA | **Certified Investment Manager** *(투자자산운용사)* |
