@@ -41,7 +41,7 @@
 | KOFIA | **Certified Investment Analyst** *(금융투자분석사)* |
 | KOFIA | **Certified Investment Manager** *(투자자산운용사)* |
 | KVCA | **Certified Venture Investment Specialist (CVIS)** *(벤처투자분석사)* |
-| EO School | **VC Sprint 9 — Graduated with distinction** · Completed a practitioner-led program in startup screening and investment memo writing. [Program](https://eopla.net/events/369?eoschool=true) |
+| EO School | **VC Sprint 9 — Graduated with distinction** · Startup screening and investment memo writing |
 | WorldQuant | **Challenge, Gold Level** *(10,000+ points)* — reached on the WorldQuant BRAIN research platform |
 | Day1 Company / APEX | **APEX Level 1 (Essential) — AI Performance Examination** · Validates practical AI proficiency across problem framing, prompting, output verification, workflow integration, and responsible use. [Verify credential](https://scaila.kr/apex/verify/credential/APEX-202608-000011) *(인공지능활용능력인증)* |
 
