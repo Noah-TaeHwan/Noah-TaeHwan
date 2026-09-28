@@ -19,6 +19,7 @@
 
 | Where | What |
 | --- | --- |
+| **[Affording Generative AI](https://github.com/Noah-TaeHwan/affording-generative-ai)** | Working paper (2026) on what a \$20-a-month AI plan costs relative to income in 201 economies. Audits App Store prices in 170 storefronts and relates these burdens to two measures of AI use. English and Korean versions; replication package archived on [Zenodo](https://doi.org/10.5281/zenodo.23006366). |
 | **[THOUGHTS ON INVESTMENT](https://taehwannoah.substack.com/)** | Company analysis, investment theses, market questions, and postmortems. |
 | **[LS CRUDE](https://github.com/Noah-TaeHwan/ls-crude)** | Team research on WTI with alternative data. Logged 73 physical-activity candidates as KEEP / PARK / KILL, built a Cushing Activity Index (CAI v0.1) from traffic and DMR data, and reported that it did not improve a daily retrospective forecast. [Dashboard](https://ls-crude.vercel.app/) |
 | **[Derivatives Desk in Excel/VBA](https://github.com/Noah-TaeHwan/derivatives-desk-excel)** | Bond PV01, Black-Scholes Greeks, scenario P&L for a delta-hedged bond / option / futures book, and cash-futures and KOSPI200 basket arbitrage. Workbooks ship with VBA pricing functions and self-check macros for units, baselines, and basket integrity. |
