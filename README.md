@@ -21,7 +21,7 @@
 | --- | --- |
 | **[THOUGHTS ON INVESTMENT](https://taehwannoah.substack.com/)** | Company analysis, investment theses, market questions, and postmortems. |
 | **[LS CRUDE](https://github.com/Noah-TaeHwan/ls-crude)** | Team research on WTI with alternative data. Logged 73 physical-activity candidates as KEEP / PARK / KILL, built a Cushing Activity Index (CAI v0.1) from traffic and DMR data, and reported that it did not improve a daily retrospective forecast. [Dashboard](https://ls-crude.vercel.app/) |
-| **[Derivatives Desk in Excel/VBA](https://github.com/Noah-TaeHwan/derivatives-desk-excel)** | Bond PV01, Black-Scholes Greeks, scenario P&L for a delta-hedged bond / option / futures book, and cash-futures and KOSPI200 basket arbitrage. Four desk tasks reviewed by a practicing securities trader. |
+| **[Derivatives Desk in Excel/VBA](https://github.com/Noah-TaeHwan/derivatives-desk-excel)** | Bond PV01, Black-Scholes Greeks, scenario P&L for a delta-hedged bond / option / futures book, and cash-futures and KOSPI200 basket arbitrage. Workbooks ship with VBA pricing functions and self-check macros for units, baselines, and basket integrity. |
 | **Quantitative research** | Time-series analysis, statistical modeling, and reproducible walk-forward research design. |
 | **AI-assisted research systems** | Local-first workflows for evidence collection, analysis, and knowledge operations. AI accelerates the workflow; judgment remains accountable. |
 
@@ -29,7 +29,7 @@
 
 | Where | What |
 | --- | --- |
-| **[Noah Trading Desk](https://github.com/Noah-TaeHwan/stock-coin-trade)** | Quant research desk where every number carries a receipt: license-checked data sources, hashed backtest runs, and an AI research agent that cannot show a number without one. 302 tests, seven bugs fixed in the inherited backtest engine. Built on a course teaching platform. [Live demo](https://13-124-251-180.sslip.io) |
+| **[Noah Trading Desk](https://github.com/Noah-TaeHwan/stock-coin-trade)** | Quant research desk where every number carries a receipt: license-checked data sources, hashed backtest runs, and an AI research agent that cannot show a number without one. 302 tests, seven bugs fixed in the inherited backtest engine. Built on a forked mock-trading platform; only my changes are claimed. [Live demo](https://13-124-251-180.sslip.io) |
 | **[dartcatcher](https://github.com/Noah-TaeHwan/dartcatcher)** | Three-stage pipeline for Korean DART filings. Every README number is backed by a checked-in run log and verified in CI. |
 | **[leanpeek](https://github.com/Noah-TaeHwan/leanpeek)** | CLI on [PyPI](https://pypi.org/project/leanpeek/) that turns a QuantConnect LEAN backtest JSON into a one-line summary, terminal sparklines, and a one-page report. |
 | **[loopuccino](https://github.com/Noah-TaeHwan/loopuccino)** | CLI that checks whether an AI session's handoff notes are complete enough to resume without guessing. |
@@ -51,7 +51,7 @@
 | KOFIA | **Certified Investment Manager** *(투자자산운용사)* |
 | KVCA | **Certified Venture Investment Specialist (CVIS)** *(벤처투자분석사)* |
 | EO School | **VC Sprint 9 — Graduated with distinction** · Startup screening and investment memo writing |
-| Comento | **Securities Quant Trading Job Simulation — Completed** (Aug–Sep 2026) · Bond, equity derivatives, P&L, and arbitrage tasks reviewed by a practicing securities trader. [Work](https://github.com/Noah-TaeHwan/derivatives-desk-excel) *(퀀트 운용 직무 체험)* |
+| Comento | **Securities Quant Trading Job Simulation — Completed** (Aug–Sep 2026) · Bond, equity derivatives, P&L, and arbitrage tasks reviewed by a practicing securities trader. *(퀀트 운용 직무 체험)* |
 | WorldQuant | **Challenge, Gold Level** *(10,000+ points)* — reached on the WorldQuant BRAIN research platform |
 | Day1 Company / APEX | **APEX Level 1 (Essential) — AI Performance Examination** · Validates practical AI proficiency across problem framing, prompting, output verification, workflow integration, and responsible use. [Verify credential](https://scaila.kr/apex/verify/credential/APEX-202608-000011) *(인공지능활용능력인증)* |
 
