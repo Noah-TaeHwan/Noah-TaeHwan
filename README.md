@@ -35,14 +35,14 @@ Based in Gyeonggi, South Korea. I design and implement with AI coding tools and 
 
 | Where | What | Evidence |
 | --- | --- | --- |
-| **[Noah Trading Desk](https://github.com/Noah-TaeHwan/stock-coin-trade)** | Quant research desk where every number carries a calculation receipt. Forked from a public mock-trading repository and extended; the claims cover my changes only. [Live demo](https://13-124-251-180.sslip.io) | 463 test functions; 7 engine errors fixed |
+| **[Noah Trading Desk](https://github.com/Noah-TaeHwan/stock-coin-trade)** | Quant research desk where every number carries a calculation receipt. Forked from a public mock-trading repository and extended; the claims cover my changes only. [Live demo](https://13-124-251-180.sslip.io) | CI passing as of 2026-10-10 (3 jobs: unit, integration, image build); 7 engine errors fixed |
 | **[Lumina](https://github.com/Noah-TaeHwan/lumina-invest)** | Research app that puts an evidence badge on every sentence of an AI answer and keeps a decision journal. Extended from a public codebase. | AI signal AUC 0.513 vs 0.649 baseline, not adopted |
 | **[dartcatcher](https://github.com/Noah-TaeHwan/dartcatcher)** | Docker pipeline for Korean DART filings. | 45 records matched the official API |
 | **[leanpeek](https://github.com/Noah-TaeHwan/leanpeek)** | CLI that turns a QuantConnect LEAN backtest JSON into a one-line summary and an HTML report. [PyPI](https://pypi.org/project/leanpeek/) | Release 0.3.1 |
 | **[loopuccino](https://github.com/Noah-TaeHwan/loopuccino)** | CLI that checks whether an AI coding session's handoff notes are complete enough to resume. [PyPI](https://pypi.org/project/loopuccino/) | Release 0.10.0, standard library only |
 | **[NONGGOO](https://github.com/Noah-TaeHwan/nonggoo)** | Basketball match platform built with a partner, 2025.07 to 2026.07. I built the web and mobile apps. [Live web](https://nonggoo-mvp.vercel.app/) · App Store · Google Play (Capacitor-based app) | 229 of 234 closed PRs merged |
 
-AI coding tools wrote much of the code in these repositories. Scope, decisions and verification are mine. 29 repositories of my own, 9,179 commits (2025.05 to 2026.10, at least 31% carry an AI co-author line).
+AI coding tools wrote much of the code in these repositories. Scope, decisions and verification are mine. As of October 2026, 7 public GitHub repositories have a passing recent CI run.
 
 ## Writing
 
@@ -58,8 +58,8 @@ AI coding tools wrote much of the code in these repositories. Scope, decisions a
 | --- | --- |
 | 투자자산운용사 (Certified Investment Manager), KOFIA | 2026.01 |
 | 벤처투자분석사 (Certified Venture Investment Specialist), KVCA | 2026.06 |
-| 금융투자분석사 (Certified Investment Analyst), KOFIA | 2026.07 |
-| APEX Essential (AI Performance Examination), passed, 666/1000, Day1 Company · [verify](https://scaila.kr/apex/verify/credential/APEX-202608-000011) | 2026.08 |
+| 금융투자분석사 (Certified Research Analyst), KOFIA | 2026.07 |
+| APEX (AI Performance Examination) certificate, 666/1000, Day1 Company | 2026.08 |
 | WorldQuant BRAIN, Genius Gold | 2026 Q3 |
 | EO VC SPRINT 9, completed | 2025 |
 | 코멘토 「퀀트 운용 직무 체험」, completed | 2026.08 to 2026.09 |
