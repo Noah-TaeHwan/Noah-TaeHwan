@@ -67,7 +67,7 @@ AI coding tools wrote much of the code in these repositories. Scope, decisions a
 
 ## Background
 
-Service operations and PM roles (2019 to 2020). Startups: Mongle (2020 to 2021) and DeepSide (2022 to 2023, joint representative), which raised two seed rounds totaling KRW 150M from Korea Investment Accelerator (2022) and Sopoong Ventures (2023). Pricing-data review at Coupang (2023 to 2024), then Global-organisation PMO at 일만백만 (2024).
+Service operations and PM roles (2019 to 2020). Startups: Mongle (2020 to 2021) and DeepSide (2022 to 2023, joint representative), which raised two seed rounds totaling KRW 150M from Korea Investment Accelerator (2022) and Sopoong Ventures (2023). Pricing-data review at Coupang (2023 to 2024), then Global-organisation PM at 일만백만 (2024).
 
 ## Contact
 
