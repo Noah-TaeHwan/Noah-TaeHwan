@@ -17,6 +17,7 @@ Based in Gyeonggi, South Korea. I design and implement with AI coding tools and 
 
 ## What I am doing now
 
+- Software developer at an orthopedic hospital in Korea since 2026.11: hospital workflow automation software (inventory management, EMR integration).
 - Independent research consultant on WorldQuant BRAIN: 128 alphas submitted in 9 regions (2026.06 to 2026.10). Median Sharpe 2.29, in-sample figures.
 - Toss Apps-in-Toss mini-app 오를까, a daily gasoline price vote, live since 2026.08.
 - An evidence-first research app that answers questions about listed companies from filings (private, in development).
