@@ -17,7 +17,6 @@ Based in Gyeonggi, South Korea. I design and implement with AI coding tools and 
 
 ## What I am doing now
 
-- Freelance service planning and QA for an AI fashion content startup (since 2026.05).
 - Independent research consultant on WorldQuant BRAIN: 128 alphas submitted in 9 regions (2026.06 to 2026.10). Median Sharpe 2.29, in-sample figures.
 - Toss Apps-in-Toss mini-app 오를까, a daily gasoline price vote, live since 2026.08.
 - An evidence-first research app that answers questions about listed companies from filings (private, in development).
@@ -63,11 +62,11 @@ AI coding tools wrote much of the code in these repositories. Scope, decisions a
 | WorldQuant BRAIN, Genius Gold | 2026 Q3 |
 | EO VC SPRINT 9, completed | 2025 |
 | 코멘토 「퀀트 운용 직무 체험」, completed | 2026.08 to 2026.09 |
-| 이스트소프트 이스트캠프 AI 퀀트 4기 (K-Digital Training, 800 hours) | 2026.06 to 2026.11 (expected) |
+| 이스트소프트 이스트캠프 AI 퀀트 4기 (K-Digital Training, 800 hours), completed | 2026.06 to 2026.11 |
 
 ## Background
 
-Service operations and PM roles (2019 to 2020). Startups: Mongle (2020 to 2021) and DeepSide (2022 to 2023, joint representative), which raised two seed rounds totaling KRW 150M from Korea Investment Accelerator (2022) and Sopoong Ventures (2023). Pricing-data review at Coupang (2023 to 2024), then Global-organisation PM at 일만백만 (2024).
+Service operations and PM roles (2019 to 2020). Startups: Mongle (2020 to 2021) and DeepSide (2022 to 2023, joint representative), which raised two seed rounds totaling KRW 150M from Korea Investment Accelerator (2022) and Sopoong Ventures (2023). Pricing-data review at Coupang (2023 to 2024), then Global-organisation PM at 일만백만 (2024). Freelance service planning and QA for an AI fashion content startup (2026.05 to 2026.11).
 
 ## Contact
 
