@@ -18,7 +18,7 @@ Based in Gyeonggi, South Korea. I design and implement with AI coding tools and 
 ## What I am doing now
 
 - Software developer at an orthopedic hospital in Korea since 2026.11: hospital workflow automation software (inventory management, EMR integration).
-- [Studio Noah](https://studionoah.vercel.app), my one-person product studio (sole proprietorship since 2026.11): MVP builds and workflow automation for clients.
+- [Studio Noah](https://studionoah.vercel.app), my one-person product studio since 2026.11: MVP builds and workflow automation for clients.
 - Independent research consultant on WorldQuant BRAIN: 128 alphas submitted in 9 regions (2026.06 to 2026.10). Median Sharpe 2.29, in-sample figures.
 - Toss Apps-in-Toss mini-app 오를까, a daily gasoline price vote, live since 2026.08.
 - An evidence-first research app that answers questions about listed companies from filings (private, in development).
@@ -68,7 +68,7 @@ AI coding tools wrote much of the code in these repositories. Scope, decisions a
 
 ## Background
 
-Service operations and PM roles (2019 to 2020). Founded three businesses: Mongle (2020 to 2021); DeepSide (2022 to 2023, joint representative), which raised two seed rounds totaling KRW 150M from Korea Investment Accelerator (2022) and Sopoong Ventures (2023); and Studio Noah, a one-person product studio registered as a sole proprietorship in 2026.11. Pricing-data review at Coupang (2023 to 2024), then Global-organisation PM at 일만백만 (2024). Freelance service planning and QA for an AI fashion content startup (2026.05 to 2026.11).
+Service operations and PM roles (2019 to 2020). Founded three businesses: Mongle (2020 to 2021); DeepSide (2022 to 2023, joint representative), which raised two seed rounds totaling KRW 150M from Korea Investment Accelerator (2022) and Sopoong Ventures (2023); and Studio Noah, a one-person product studio (2026.11 to present). Pricing-data review at Coupang (2023 to 2024), then Global-organisation PM at 일만백만 (2024). Freelance service planning and QA for an AI fashion content startup (2026.05 to 2026.11).
 
 ## Contact
 
